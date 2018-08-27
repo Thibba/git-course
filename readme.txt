@@ -4,4 +4,5 @@ Diff
 
 verificar Diferenças.
 
+Verificar alterações nos arquivos
 
